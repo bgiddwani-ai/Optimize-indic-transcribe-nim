@@ -45,17 +45,16 @@ These scripts are located outside the `CanaryNIM-Bharat-Final` directory and are
 
 ## Dependencies
 
-### NeMo
+Custom NeMo and nemo2riva repositories
 
-Custom NeMo fork:
-
-NeMo.zip shared separately
-
-### nemo2riva
-
-Custom nemo2riva fork:
-
-https://github.com/bgiddwani-ai/nemo2riva
+### Setup Repo
+```
+git clone https://github.com/bgiddwani-ai/Optimize-indic-transcribe.git
+cd Optimize-indic-transcribe/CanaryNIM-Bharat-Final
+git clone https://github.com/bgiddwani-ai/NeMo-indictranscribe.git
+mv NeMo-indictranscribe NeMo
+git clone https://github.com/bgiddwani-ai/nemo2riva.git
+```
 
 ---
 
