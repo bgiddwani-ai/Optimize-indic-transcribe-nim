@@ -1,0 +1,1 @@
+python prepare_indicvoices_hindi.py

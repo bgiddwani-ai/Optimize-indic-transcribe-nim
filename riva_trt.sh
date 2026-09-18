@@ -1,0 +1,1 @@
+docker run -it --ipc=host -p 9000:9000 -p 50051:50051 --gpus '"device=0"' -v $PWD/CanaryNIM-Bharat-Final:/home/CanaryNIM-Bharat-Final -v /data:/data --user=root --entrypoint=/bin/bash nvcr.io/nim/nvidia/canary-1b:latest
