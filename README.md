@@ -49,7 +49,7 @@ These scripts are located outside the `CanaryNIM-Bharat-Final` directory and are
 
 Custom NeMo fork:
 
-https://github.com/Bodhan-NeMo/NeMo
+NeMo.zip shared separately
 
 ### nemo2riva
 
